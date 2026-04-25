@@ -10,6 +10,9 @@ export const metadata: Metadata = {
   title: "BillBabu - Smart POS & Inventory Management for Indian Businesses",
   description:
     "Complete Point of Sale, billing, and ledger management tool designed for retail and wholesale businesses in India.",
+  verification: {
+    google: "IajWpTTk6M-v3BecdGDia2ZndoUnupqeVHq0_7mtDyo",
+  },
 };
 
 export default function RootLayout({
